@@ -1,15 +1,11 @@
-### Here is What I'm Working On!
+Hello, I'm Shweta Bandagale!!👋
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...Freelancing
-- 🌱 I’m currently learning ...App Developement
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...Freelancing work
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ...shwetabandagale9@gmail.com
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I'm super excited!
+- 🔭 I’m currently working on App Development and Python projects
+- 🌱 I’m currently learning Swift
+- 👯 I’m looking to collaborate on Linkedin
+- 🤔 I’m looking for help with Freelancing work
+- 💬 Ask me about Flutter or any queries in python
+- 📫 How to reach me: shwetabandagale9@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm spend almost 12 hours listening songs everyday.
 -->
